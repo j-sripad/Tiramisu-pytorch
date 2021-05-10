@@ -9,6 +9,8 @@ This repository contains the  implementation of "The One Hundred Layers Tiramisu
 #### Note
 * The decoder part of this implementation is bit different from that of the paper. 
 
+![Alt text](tiramisu.png.jpg?raw=true "Title")
+
 
 #### Usage
 <pre><code>
