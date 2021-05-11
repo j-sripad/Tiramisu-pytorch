@@ -25,7 +25,7 @@ input_features - input image channels
 nclasses - number of classes
 growth_rate - growth rate (filters  to begin with for convolution - generally 16)
 """
-</code>
+</code></pre>
 
 
 #### Dataset
