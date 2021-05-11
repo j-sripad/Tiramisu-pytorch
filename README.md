@@ -1,3 +1,4 @@
+![Ground Truth_1](https://user-images.githubusercontent.com/39008190/117753962-057dad80-b237-11eb-9b02-1b2ec5beabe9.png)
 ![Ground Truth_0](https://user-images.githubusercontent.com/39008190/117753918-f696fb00-b236-11eb-87fe-3e43400524a8.png)
 
 
