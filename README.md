@@ -32,8 +32,8 @@ growth_rate - growth rate (filters  to begin with for convolution - generally 16
 #### Dataset
 * [Person Detection Data](https://supervise.ly/)
 
-
-<img src="https://github.com/j-sripad/Tiramisu-pytorch/blob/main/misc/Image_0.png" width="30%"></img> <span>"hello</span>
+ <span>"hello</span> <span>"hello</span>
+<img src="https://github.com/j-sripad/Tiramisu-pytorch/blob/main/misc/Image_0.png" width="30%"></img>
 <img src="https://github.com/j-sripad/Tiramisu-pytorch/blob/main/misc/Ground%20Truth_0.png" width="30%"></img> 
 <img src="https://github.com/j-sripad/Tiramisu-pytorch/blob/main/misc/predicted_0.png" width="30%"></img>
 
