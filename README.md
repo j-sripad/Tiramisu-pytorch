@@ -1,3 +1,4 @@
+![Ground Truth_0](https://user-images.githubusercontent.com/39008190/117753918-f696fb00-b236-11eb-87fe-3e43400524a8.png)
 
 
 This repository contains the  implementation of "The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation" in pytorch.
