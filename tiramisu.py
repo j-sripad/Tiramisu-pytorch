@@ -178,7 +178,7 @@ class Tiramisu_Segmentation(nn.Module):
 #         print(x.shape)
 #         print(x.type)
         if self.nclasses > 1:
-            x =  self.softmax(x)
+            return x
         else:
             x =  self.sigmoid(x)
         
